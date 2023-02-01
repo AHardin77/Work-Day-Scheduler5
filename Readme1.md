@@ -1,7 +1,8 @@
 05 Third-Party APIs: Work Day Scheduler📫 🚀 💡
 
-What this codes does an app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript codd and jquery. 
+What this codes does an app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript and jquery. 
 Simple calendar application that allows the user to save events for each hour of the day. The grey is past the green is preset and red future. 
+
 🚀 Technologies Used
 HTML
 CSS
@@ -15,6 +16,7 @@ Jquery
 -https://developer.mozilla.org/en-US/docs
 -Youtube
 -Udemy Javascript
+- TA 
 
 🚀 Authors
 -💡Authors @AHardin77
