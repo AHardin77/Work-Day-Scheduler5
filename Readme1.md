@@ -23,6 +23,9 @@ Jquery
 
 🚀 Deployed application Link- https://ahardin77.github.io/Work-Day-Scheduler5/
 
+https://github.com/AHardin77/Work-Day-Scheduler5
+
+
 Screenshots
 📫 Links to screenshots below!
 <img width="1292" alt="Screen Shot 2023-01-31 at 5 38 08 PM" src="https://user-images.githubusercontent.com/109550438/215921093-5fc19803-2b44-4486-b00d-6d832e71f754.png">
