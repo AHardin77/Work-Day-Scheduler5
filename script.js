@@ -1,6 +1,6 @@
  //Display Current Date in Header
-var currentDay = $("#currentDay");
-currentDay.text (moment().format('dddd, MMM Do YYYY'));
+  var currentDay = $("#currentDay");
+currentDay.text(dayjs().format('dddd, MMM DD YYYY'));
 
 //Find Current Hour
 var currentHour = moment().hour();
