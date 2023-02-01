@@ -1,8 +1,4 @@
-
-  // use the id in the containing time-block as a key to save the user input in
-  // local storage. HINT: What does `this` reference in the click listener
-  
-  //Display Current Date in Header
+ //Display Current Date in Header
 var currentDay = $("#currentDay");
 currentDay.text (moment().format('dddd, MMM Do YYYY'));
 
@@ -17,7 +13,7 @@ var hour10 = moment().hour(10);
 var hour11 = moment().hour(11);
 var hour12 = moment().hour(12);
 var hour13 = moment().hour(13);
-var hour14 = moment().hour(14);
+var hour14 = moment().hour(14); 
 
 //Format Text Areas
 $(".time-block").each(function(){
@@ -48,6 +44,4 @@ $(".saveBtn").on("click", function(){
 });
  
   
-
   
-
